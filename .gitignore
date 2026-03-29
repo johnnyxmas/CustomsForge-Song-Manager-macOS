@@ -67,6 +67,13 @@ packages/
 #Test files
 *.testsettings 
 
+#macOS build output
+*.app
+
+#Claude Code
+.claude/
+CLAUDE.md
+
 #others
 dev*.bat
 dev*.txt
