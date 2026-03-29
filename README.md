@@ -12,7 +12,7 @@ A desktop application for managing custom DLC songs in Rocksmith 2014. Built wit
 Downloads
 ======================
 
-Pre-built releases are available on the [Releases](https://github.com/johnnyxmas/CustomsForge-Song-Manager/releases) page:
+Pre-built releases are available on the [Releases](https://github.com/johnnyxmas/CustomsForge-Song-Manager-macOS/releases) page:
 
 * **Windows** — `CFSMSetup.exe` (Inno Setup installer)
 * **macOS** — `CustomsForge.Song.Manager.app.zip` (Wine Crossover wrapper)
@@ -32,7 +32,7 @@ The macOS version runs the Windows application inside Wine Crossover, packaged a
 
 ### Building
 
-1. Download `CFSMSetup.exe` from [CustomsForge](https://ignition4.customsforge.com/tools/cfsm#downloads) or from this repo's [Releases](https://github.com/johnnyxmas/CustomsForge-Song-Manager/releases)
+1. Download `CFSMSetup.exe` from [CustomsForge](https://ignition4.customsforge.com/tools/cfsm#downloads) or from this repo's [Releases](https://github.com/johnnyxmas/CustomsForge-Song-Manager-macOS/releases)
 
 2. Run the build script:
    ```bash
